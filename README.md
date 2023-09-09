@@ -1,3 +1,3 @@
-# responsive-navbar-and-sidebar
+# Responsive Navbar & Sidebar
 
-Simple responsive navbar and sidebar built using JavaScript, CSS & HTML.
+A responsive navbar and sidebar adapt to the screen size and include buttons to hide and show the navigation bar.
